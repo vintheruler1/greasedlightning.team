@@ -10,22 +10,22 @@ export default function Photos() {
       <header className="flex justify-between items-center p-4 bg-gray-800 text-white">
         <h1 className="text-2xl font-bold">Photos</h1>
         <nav className="flex space-x-4">
-          <Link href="/" passHref>
+          <Link href="/" legacyBehavior>
             <a className="hover:underline">Home</a>
           </Link>
-          <Link href="/resources" passHref>
+          <Link href="/resources" legacyBehavior>
             <a className="hover:underline">Resources</a>
           </Link>
-          <Link href="/robots" passHref>
+          <Link href="/robots" legacyBehavior>
             <a className="hover:underline">Robots</a>
           </Link>
-          <Link href="/contact" passHref>
+          <Link href="/contact" legacyBehavior>
             <a className="hover:underline">Contact Us</a>
           </Link>
-          <Link href="/sponsors" passHref>
+          <Link href="/sponsors" legacyBehavior>
             <a className="hover:underline">Sponsors</a>
           </Link>
-          <Link href="/blog" passHref>
+          <Link href="/blog" legacyBehavior>
             <a className="hover:underline">Blog</a>
           </Link>
         </nav>
