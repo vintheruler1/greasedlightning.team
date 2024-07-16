@@ -1,4 +1,5 @@
 import Head from 'next/head';
+import Link from 'next/link';
 
 export default function Home() {
   return (
@@ -12,12 +13,24 @@ export default function Home() {
       <header className="flex justify-between items-center p-4 bg-gray-800 text-white">
         <h1 className="text-2xl font-bold">Team 3888</h1>
         <nav className="flex space-x-4">
-          <a href="/resources" className="hover:underline">Resources</a>
-          <a href="/photos" className="hover:underline">Photos</a>
-          <a href="/robots" className="hover:underline">Robots</a>
-          <a href="/contact" className="hover:underline">Contact Us</a>
-          <a href="/sponsors" className="hover:underline">Sponsors</a>
-          <a href="/blog" className="hover:underline">Blog</a>
+          <Link href="/resources" passHref>
+            <a className="hover:underline">Resources</a>
+          </Link>
+          <Link href="/photos" passHref>
+            <a className="hover:underline">Photos</a>
+          </Link>
+          <Link href="/robots" passHref>
+            <a className="hover:underline">Robots</a>
+          </Link>
+          <Link href="/contact" passHref>
+            <a className="hover:underline">Contact Us</a>
+          </Link>
+          <Link href="/sponsors" passHref>
+            <a className="hover:underline">Sponsors</a>
+          </Link>
+          <Link href="/blog" passHref>
+            <a className="hover:underline">Blog</a>
+          </Link>
         </nav>
       </header>
 
