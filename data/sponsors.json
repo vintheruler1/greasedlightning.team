@@ -1,0 +1,93 @@
+[
+    {
+        "name": "Prototek Digital Manufacturing",
+        "logo": "https://prototek.com/wp-content/uploads/2024/01/Prototek-Full-Color.webp",
+        "website": "http://sacedm.com/",
+        "logoStyle": "halfwhite",
+        "imgClass": ""
+    },
+    {
+        "name": "Micron",
+        "logo": "https://www.micron.com/content/experience-fragments/micron/us/en/site/header/master/_jcr_content/root/header_1665313514/logo.coreimg.svg/1699275530241/micron-logo-white.svg",
+        "website": "https://www.micron.com/",
+        "logoStyle": "white",
+        "imgClass": ""
+    },
+    {
+        "name": "Gene Haas Foundation",
+        "logo": "/assets/sponsors/GeneHaasFoundation.png",
+        "website": "https://ghaasfoundation.org/content/ghf/en/home.html",
+        "logoStyle": "white",
+        "imgClass": ""
+    },
+    {
+        "name": "Western Digital",
+        "logo": "https://www.westerndigital.com/content/dam/store/en-us/assets/home-page/brand-logos/header-main-logo.svg",
+        "website": "https://www.westerndigital.com/",
+        "logoStyle": "white",
+        "imgClass": ""
+    },
+    {
+        "name": "Axon Robotics",
+        "logo": "/assets/sponsors/Axon-Logo-With-Text-White.svg",
+        "website": "https://axon-robotics.com/",
+        "logoStyle": "white",
+        "imgClass": ""
+    },
+    {
+        "name": "American Council of Engineering Companies Sierra Chapter",
+        "logo": "https://cdn.ymaws.com/acec-ca.site-ym.com/graphics/logo.png",
+        "website": "https://www.acec-ca.org/",
+        "logoStyle": "white",
+        "imgClass": ""
+    },
+    {
+        "name": "Inductive Automation",
+        "logo": "https://inductiveautomation.com/static/images/logos/inductive-automation-logo.png",
+        "website": "http://www.inductiveautomation.com/",
+        "logoStyle": "white",
+        "imgClass": ""
+    },
+    {
+        "name": "Powdercraft Rocklin",
+        "logo": "/assets/sponsors/powder-craft-logo.png",
+        "website": "http://www.powdercraftofrocklin.com/",
+        "logoStyle": "hal",
+        "imgClass": "grayscaleSponsor"
+    },
+    {
+        "name": "CNC Madness",
+        "logo": "/assets/sponsors/cnc-madness.png",
+        "website": "https://cncmadness.com/",
+        "logoStyle": "white",
+        "imgClass": ""
+    },
+    {
+        "name": "Apple",
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Apple_logo_white.svg/1200px-Apple_logo_white.svg.png",
+        "website": "https://apple.com/",
+        "logoStyle": "white",
+        "imgClass": ""
+    },
+    {
+        "name": "MonsterBolts",
+        "logo": "/assets/sponsors/monster-bolts.png",
+        "website": "https://monsterbolts.com/",
+        "logoStyle": "hal",
+        "imgClass": "grayscaleSponsor"
+    },
+    {
+        "name": "Misumi",
+        "logo": "https://www.esker.com.sg/sites/default/files/rgb_main_horizontal_white-registeredtrademark-01.png",
+        "website": "https://us.misumi-ec.com/",
+        "logoStyle": "halfwhite",
+        "imgClass": ""
+    },
+    {
+        "name": "goBilda",
+        "logo": "https://cdn11.bigcommerce.com/s-eem7ijc77k/stencil/af49f910-ade4-013a-b026-32a478cd4269/e/940880a0-6c0d-0136-7313-41f31bb2e297/img/goBILDA.svg",
+        "website": "https://www.gobilda.com/",
+        "logoStyle": "white",
+        "imgClass": ""
+    }
+]
