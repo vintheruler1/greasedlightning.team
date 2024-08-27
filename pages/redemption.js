@@ -16,15 +16,6 @@ export default function Redemption(props) {
         <main className={styles.main}>
         <section className={styles.robotStack}>
           <h1 className={styles.topText}>Introducing</h1>
-          <picture>
-            <source
-              srcSet={require("../public/assets/robot-trans.png?webp")}
-              type="image/webp"
-              // width="181"
-              alt=""
-            />
-            <img src={"/assets/robot-trans.png"} alt="Juice 16236 Logo"></img>
-          </picture>
           <h1 className={styles.bottomText}>REDEMPTION</h1>
         </section>
 
